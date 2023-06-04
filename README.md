@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, Laravel**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Html, javascript, css, reactjs, nodejs, Php, laravel, Python, django, flask**
+- 💬 Ask me about **Html, javascript, css, Angular**
 
 - 📫 How to reach me **shirinvr1725@gmail.com**
 
